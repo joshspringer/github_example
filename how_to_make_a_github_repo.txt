@@ -1,0 +1,2 @@
+1. Create a git repo locally
+2. 
